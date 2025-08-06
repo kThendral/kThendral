@@ -38,27 +38,8 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔐 Smart Home System  
-> **Tech Stack**: Python, Raspberry Pi, Motion Sensor, RFID, Fire Sensor  
-> A smart, secure, and intuitive home automation system with live detection and fire alerts.
-
-### 📊 Influencer Genuineness Detection (Internship @ WinResearch)  
-> **Tech Stack**: Python, XGBoost, Pandas, React, FastAPI, Colab  
-> An ML model to detect fake influencers across social media with a full-stack dashboard.
-
-### 🎯 Weapon Detection System  
-> **Tech Stack**: TensorFlow, OpenCV, Flask, Jetson Nano, Docker  
-> Real-time firearm detection using SSD MobileNet, deployed on edge devices via Docker.
-
----
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-7000%2B-brightgreen?style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kThendral&show_icons=true&include_all_commits=true&theme=radical" height="180" />
