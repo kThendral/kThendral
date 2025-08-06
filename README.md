@@ -20,7 +20,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA3D2E?style=for-the-badge)
@@ -36,17 +36,39 @@
 ![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-BD2130?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## 🚀 Projects
+
+### 🔐 Smart Home System  
+> **Tech Stack**: Python, Raspberry Pi, Motion Sensor, RFID, Fire Sensor  
+> A smart, secure, and intuitive home automation system with live detection and fire alerts.
+
+### 📊 Influencer Genuineness Detection (Internship @ WinResearch)  
+> **Tech Stack**: Python, XGBoost, Pandas, React, FastAPI, Colab  
+> An ML model to detect fake influencers across social media with a full-stack dashboard.
+
+### 🎯 Weapon Detection System  
+> **Tech Stack**: TensorFlow, OpenCV, Flask, Jetson Nano, Docker  
+> Real-time firearm detection using SSD MobileNet, deployed on edge devices via Docker.
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kThendral&show_icons=true&theme=radical" height="180" />
+  <img src="https://img.shields.io/badge/Total_Commits-7000%2B-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kThendral&show_icons=true&include_all_commits=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kThendral&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
+
 - LinkedIn: [www.linkedin.com/in/thendral-kabilan](#)
 - Gmail: [thendral22.kabilan@gmail.com](#)
 
