@@ -50,6 +50,13 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [www.linkedin.com/in/thendral-kabilan](#)
-- Gmail: [thendral22.kabilan@gmail.com](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thendral-kabilan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thendral_Kabilan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:thendral22.kabilan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-thendral22.kabilan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
 
